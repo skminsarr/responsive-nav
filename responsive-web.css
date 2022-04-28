@@ -78,6 +78,7 @@ transition: all .5s ease-in-out;
     letter-spacing: 1px;
     border: none;
     transition: all .5s ease-in-out;
+    text-decoration: none;
      
 }
 .btn:hover {
